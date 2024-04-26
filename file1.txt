@@ -1,8 +1,3 @@
-1er fichier texte
+Bonjour, Je suis Caroline, je teste mes commandes 
 
-Bonjour 
-
-modif non pris en compte ? ok fonctionnel
-
-1ère action sur branche
 
