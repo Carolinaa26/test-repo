@@ -1,7 +1,4 @@
-1er fichier texte
+Encore quelques modifications
 
-Bonjour 
-
-modif non pris en compte ? ok fonctionnel
-
+1.2.3.4.5.6...
 
